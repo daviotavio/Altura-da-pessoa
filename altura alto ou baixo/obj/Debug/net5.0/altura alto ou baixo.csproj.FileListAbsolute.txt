@@ -1,0 +1,16 @@
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\altura alto ou baixo\bin\Debug\net5.0\altura alto ou baixo.exe
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\altura alto ou baixo\bin\Debug\net5.0\altura alto ou baixo.deps.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\altura alto ou baixo\bin\Debug\net5.0\altura alto ou baixo.runtimeconfig.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\altura alto ou baixo\bin\Debug\net5.0\altura alto ou baixo.runtimeconfig.dev.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\altura alto ou baixo\bin\Debug\net5.0\altura alto ou baixo.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\altura alto ou baixo\bin\Debug\net5.0\ref\altura alto ou baixo.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\altura alto ou baixo\bin\Debug\net5.0\altura alto ou baixo.pdb
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\altura alto ou baixo\obj\Debug\net5.0\altura alto ou baixo.csproj.AssemblyReference.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\altura alto ou baixo\obj\Debug\net5.0\altura alto ou baixo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\altura alto ou baixo\obj\Debug\net5.0\altura alto ou baixo.AssemblyInfoInputs.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\altura alto ou baixo\obj\Debug\net5.0\altura alto ou baixo.AssemblyInfo.cs
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\altura alto ou baixo\obj\Debug\net5.0\altura alto ou baixo.csproj.CoreCompileInputs.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\altura alto ou baixo\obj\Debug\net5.0\altura alto ou baixo.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\altura alto ou baixo\obj\Debug\net5.0\ref\altura alto ou baixo.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\altura alto ou baixo\obj\Debug\net5.0\altura alto ou baixo.pdb
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\altura alto ou baixo\obj\Debug\net5.0\altura alto ou baixo.genruntimeconfig.cache
